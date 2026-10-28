@@ -13,6 +13,7 @@ Computer Science student at **Sacramento State** (graduating Spring 2027). I lik
 | --- | --- | --- |
 | [Daily Task Tracker](https://github.com/hiroshidulnet/daily-task-tracker) | Gamified daily-task mobile app (CSC 131 team project). I built the UI and the countdown timer. | React Native, Expo, TypeScript, Supabase |
 | [Kaze](https://kaze-gampaha-sky.base44.app) | Bilingual restaurant website with table booking for a rooftop restaurant in Gampaha, Sri Lanka | Base44 |
+| [Sacramento Trail](https://github.com/hiroshidulnet/sacramento-trail) | Oregon Trail–style survival game written entirely in assembly (CSC 60) | x86-64 Assembly |
 | Vektur | Hackathon app that catches conflicts between plumbing, electrical and other trade blueprints before construction | Hornet Hacks 4.0 |
 
 ## Tech
